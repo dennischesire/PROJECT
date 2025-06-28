@@ -19,7 +19,8 @@ Our main goal is to identify aircraft models and engine types that have historic
 -Business Recommendations: Practical advice for aircraft procurement, backed by our data analysis.
 
 
-📁 Project Files
+## Project Files
+
 | File | Description |
 |'project.ipynb'| Jupyter Notebook with all the data cleaning, analysis, and visualization code|
 
