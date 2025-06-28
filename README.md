@@ -22,6 +22,7 @@ Our main goal is to identify aircraft models and engine types that have historic
 ## Project Files
 
 | File | Description |
+
 |'project.ipynb'| Jupyter Notebook with all the data cleaning, analysis, and visualization code|
 
 |'cleaned_Aviation_data.csv'| The final, prepared dataset used for analysis and the Tableau dashboard|
