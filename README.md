@@ -38,7 +38,7 @@ Our main goal is to identify aircraft models and engine types that have historic
 ## Sample Visualizations
 Bar chart: Aircraft Frequency and Manufacturing Trends
 Aircraft Damage by Engine Type
-Top States with Most Aircraft Accidents
+Top States with most Aircraft Accidents
 Weather Condition and Risk
 
 Other Visuals: The Tableau dashboard also includes charts on fatality rates, Timeline Trend, damage by weather conditions, and aircraft safety scores by make and model
